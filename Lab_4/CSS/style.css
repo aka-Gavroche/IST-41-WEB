@@ -1,9 +1,13 @@
 .container {
-    background-color: #d3c359;
+    background-color: #cec516;
     height: 100%;
-    width: 100%;
+    width:  20%;
     display: flex;
-    flex-direction:column;
-    align-items: center;
+    flex-direction:row;
     justify-content: flex-start;
+}
+
+
+.card-header {
+    text-align: center;
 }
