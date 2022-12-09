@@ -48,11 +48,13 @@ body {
     overflow-y: scroll;
     transition: 0.25s;
     position: relative;
+    padding: 0 0 5px;
 }
 
 .random {   
     width: 35%;
     margin: 7% auto;
+    height: 15%;
 }
 
 .card:hover {
